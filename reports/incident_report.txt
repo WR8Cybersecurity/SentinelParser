@@ -1,0 +1,8 @@
+=== SentinelParser Incident Report ===
+
+Total Failed Attempts: 7
+Unique Attack Sources: 2
+
+192.168.1.10: 6 failed login attempts | Severity: HIGH
+ALERT: Possible Brute Force Attack Detected from 192.168.1.10
+172.16.1.25: 1 failed login attempts | Severity: LOW
